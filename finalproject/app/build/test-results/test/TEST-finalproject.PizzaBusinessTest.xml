@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="finalproject.PizzaBusinessTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-12-17T06:15:39" hostname="kennycollins" time="0.04">
+  <properties/>
+  <testcase name="testRemoveEmployee()" classname="finalproject.PizzaBusinessTest" time="0.031"/>
+  <testcase name="testPlaceOrder()" classname="finalproject.PizzaBusinessTest" time="0.001"/>
+  <testcase name="testAddEmployee()" classname="finalproject.PizzaBusinessTest" time="0.001"/>
+  <testcase name="testRemoveMenuItem()" classname="finalproject.PizzaBusinessTest" time="0.001"/>
+  <testcase name="testViewEmployeeList()" classname="finalproject.PizzaBusinessTest" time="0.001"/>
+  <testcase name="testAddMenuItem()" classname="finalproject.PizzaBusinessTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

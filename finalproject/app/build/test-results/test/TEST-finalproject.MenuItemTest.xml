@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="finalproject.MenuItemTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-17T06:15:39" hostname="kennycollins" time="0.014">
+  <properties/>
+  <testcase name="testGetItems()" classname="finalproject.MenuItemTest" time="0.004"/>
+  <testcase name="testGetItem()" classname="finalproject.MenuItemTest" time="0.001"/>
+  <testcase name="testAddItem()" classname="finalproject.MenuItemTest" time="0.0"/>
+  <testcase name="testChangePrice()" classname="finalproject.MenuItemTest" time="0.004"/>
+  <testcase name="testRemoveItem()" classname="finalproject.MenuItemTest" time="0.002"/>
+  <system-out><![CDATA[[{"sizes":["Regular","Large"],"defaultSize":"Regular","price":{"Regular":4.99,"Large":6.99},"name":"Chocolate Brownie","id":1,"category":"Desserts"},{"sizes":["Regular","Large"],"defaultSize":"Regular","price":{"Regular":5.99,"Large":7.99},"name":"Cheesecake","id":2,"category":"Desserts"}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
